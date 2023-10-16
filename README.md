@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
-- 👨‍💻 Todos mis proyectos disponibles en [luy06d.github.io/PortafolioCV/](luy06d.github.io/PortafolioCV/)
+- 👨‍💻 Todos mis proyectos disponibles en [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
 
 - 📫 Contactame por **cusiluis04@gmail.com**
 
