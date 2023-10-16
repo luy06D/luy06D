@@ -1,5 +1,5 @@
-<h1 align="center">Console.log("Hola 👋, soy Luis David")&gt;</h1>
-<h3 align="center">Estudiante de desarrollo de software , me apasiona conocer nuevas tecnologías, algunos lenguajes que eh aprendido son: JavaScript , Java, PHP, C# ...&gt;</h3>
+<h1 align="center">Console.log("Hola 👋, soy Luis David")</h1>
+Estudiante de desarrollo de software , me apasiona conocer nuevas tecnologías, algunos lenguajes que eh aprendido son: JavaScript , Java, PHP, C# ...
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
