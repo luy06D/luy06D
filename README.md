@@ -5,6 +5,8 @@
 
 - 👨‍💻 Todos mis proyectos disponibles en [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
 
+- 👾 Visita el Juego 3 en raya en [https://luy06d.github.io/Tres_enRaya/](https://luy06d.github.io/Tres_enRaya/)
+
 - 📫 Contactame por **cusiluis04@gmail.com**
 
 
