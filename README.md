@@ -1,5 +1,5 @@
 # Console.log("Hola 👋, soy Luis David")
-> Estudiante de desarrollo de software , me apasiona conocer nuevas tecnologías, algunos lenguajes que eh aprendido son: JavaScript , Java, PHP, C# ...
+> Egresado de desarrollo de software con pasión por explorar nuevas tecnologías. Poseo conocimientos en lenguajes como JavaScript, Java, PHP, Python y C#. Mi experiencia académica y práctica me ha permitido desarrollar habilidades sólidas en el ámbito del desarrollo de software, y estoy comprometido con mantenerme actualizado en las últimas tendencias tecnológicas.
 
 - 🌱 Actualmente estoy aprendiendo **ReactJS**
 
