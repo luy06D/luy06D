@@ -1,7 +1,7 @@
 # Console.log("Hola 👋, soy Luis David")
 > Egresado de desarrollo de software con pasión por explorar nuevas tecnologías. Poseo conocimientos en lenguajes como JavaScript, Java, PHP, Python y C#. Mi experiencia académica y práctica me ha permitido desarrollar habilidades sólidas en el ámbito del desarrollo de software, y estoy comprometido con mantenerme actualizado en las últimas tendencias tecnológicas.
 
-- 🌱 Actualmente estoy aprendiendo **ReactJS**
+- 🌱 Actualmente estoy aprendiendo **ReactJS** y **Java**.
 
 - 👨‍💻 Todos mis proyectos disponibles en [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
 
