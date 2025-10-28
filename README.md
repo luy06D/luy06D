@@ -1,14 +1,32 @@
 # Console.log("Hola 👋, soy Luis David")
+
 > Profesional Tecnico en Desarrollo de Software con I.A, apasionado por explorar nuevas tecnologías. Poseo conocimientos en lenguajes como JavaScript, Java, PHP, Python y C#. Mi experiencia académica y práctica me ha permitido desarrollar habilidades sólidas en el ámbito del desarrollo de software, y estoy comprometido con mantenerme actualizado en las últimas tendencias tecnológicas.
 
-- 🌱 Actualmente estoy aprendiendo **ReactJS**.
+---
+### 🌱 Mi Viaje de Aprendizaje
 
-- 👨‍💻 Todos mis proyectos disponibles en [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
+Actualmente, estoy enfocado en dominar:
 
-- 👾 Visita el Juego 3 en raya en [https://luy06d.github.io/Tres_enRaya/](https://luy06d.github.io/Tres_enRaya/)
+* **ReactJS** 
 
-- 📫 Contactame por **cusiluis04@gmail.com**
+---
+### 🚀 Proyectos Destacados
 
+Echa un vistazo a algunos de mis trabajos:
+
+* **Portafolio CV:** Todos mis proyectos están disponibles en mi portafolio principal:
+    [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
+
+* **DEVTREE (Aplicación Full Stack):** Una aplicación que muestra mis habilidades de desarrollo (Frontend y Backend).
+    [https://ldcodedevtree.netlify.app](https://ldcodedevtree.netlify.app)
+
+* **Juego 3 en Raya:** Proyecto simple para demostrar lógica y manipulación del DOM/interfaz.
+    [https://luy06d.github.io/Tres_enRaya/](https://luy06d.github.io/Tres_enRaya/)
+
+---
+¿Tienes alguna pregunta o quieres colaborar conmigo? ¡Contáctame!
+
+* **Correo Electrónico:** cusiluis04@gmail.com
 
 <p align="left">
 </p>
