@@ -17,7 +17,7 @@ Echa un vistazo a algunos de mis trabajos:
 * **Portafolio CV:** Todos mis proyectos están disponibles en mi portafolio principal:
     [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
 
-* **DEVTREE (Aplicación Full Stack):** URL optimizada para biografías de redes sociales(Frontend y Backend).
+* **DEVTREE:** URL optimizada para biografías de redes sociales(Frontend y Backend).
     [https://ldcodedevtree.netlify.app](https://ldcodedevtree.netlify.app)
 
 * **Juego 3 en Raya:** Proyecto simple / lógica y manipulación del DOM/interfaz.
