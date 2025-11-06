@@ -7,7 +7,8 @@
 
 Actualmente, estoy enfocado en dominar:
 
-* **ReactJS** 
+* **ReactJS**
+* **NodeJS**
 
 ---
 ### 🚀 Proyectos Destacados
