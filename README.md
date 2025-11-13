@@ -11,7 +11,7 @@ Actualmente, estoy enfocado en dominar:
 * **NodeJS**
 
 ---
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados (LDCode)
 
 Echa un vistazo a algunos de mis trabajos:
 
