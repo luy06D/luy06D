@@ -39,6 +39,9 @@ Echa un vistazo a algunos de mis trabajos:
 * **DEVTREE(v1.0):** URL optimizada para biografías de redes sociales(Frontend y Backend).
     [https://ldcodedevtree.netlify.app](https://ldcodedevtree.netlify.app)
 
+* **CASHTRACKER LDcode:** Administrador de Gastos | React, Next.js , Nodejs , Express.
+    [CASHTRACKER LDcode](https://cashtracker-frontend-deploy.vercel.app/)
+
 * **Juego 3 en Raya:** Proyecto simple / lógica y manipulación del DOM/interfaz.
     [https://luy06d.github.io/Tres_enRaya/](https://luy06d.github.io/Tres_enRaya/)
 
