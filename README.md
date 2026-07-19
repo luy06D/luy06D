@@ -34,16 +34,16 @@
 Echa un vistazo a algunos de mis trabajos:
 
 * **Portafolio CV:** Todos mis proyectos están disponibles en mi portafolio principal:
-    [https://luy06d.github.io/PortafolioCV/](https://luy06d.github.io/PortafolioCV/)
+    [Portafolio CV](https://luy06d.github.io/PortafolioCV/)
 
 * **DEVTREE(v1.0):** URL optimizada para biografías de redes sociales(Frontend y Backend).
-    [https://ldcodedevtree.netlify.app](https://ldcodedevtree.netlify.app)
+    [DEVTREE(v1.0)](https://ldcodedevtree.netlify.app)
 
 * **CASHTRACKER LDcode:** Administrador de Gastos | React, Next.js , Nodejs , Express.
     [CASHTRACKER LDcode](https://cashtracker-frontend-deploy.vercel.app/)
 
 * **Juego 3 en Raya:** Proyecto simple / lógica y manipulación del DOM/interfaz.
-    [https://luy06d.github.io/Tres_enRaya/](https://luy06d.github.io/Tres_enRaya/)
+    [Juego 3 en Raya](https://luy06d.github.io/Tres_enRaya/)
 
 ---
 ¿Tienes alguna pregunta o quieres colaborar conmigo? ¡Contáctame!
